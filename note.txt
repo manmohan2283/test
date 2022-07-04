@@ -1,0 +1,8 @@
+today at 11:25 am (by dheeraj help)
+ 
+we created a new repository in github
+>>name: test
+In this step i have done
+(//only 2 commands i have executed )
+1.git init.
+2.git remote add origin https://github.com/manmohan2283/test.git. 
